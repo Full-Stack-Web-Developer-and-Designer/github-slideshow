@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to Mirnes-Glamočić's slide!"
 ---
-This is Mirnes-Glamočić's slide
+This is my avesome slide
 Use the left arrow to go back!
